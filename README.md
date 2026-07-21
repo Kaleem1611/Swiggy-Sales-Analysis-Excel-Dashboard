@@ -9,7 +9,7 @@ The dashboard helps monitor revenue, orders, customer ratings, regional sales, f
 ---
 ## 📊 Dashboard Preview
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Dashboard.png)
 ---
 ## 🎯 Business Objectives
 
