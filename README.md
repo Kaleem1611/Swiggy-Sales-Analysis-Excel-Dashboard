@@ -7,15 +7,10 @@ This project presents an interactive Sales Analysis Dashboard created in Microso
 The dashboard helps monitor revenue, orders, customer ratings, regional sales, food category performance, and city-wise insights using interactive slicers and charts.
 
 ---
-
 ## 📊 Dashboard Preview
 
-> Add your dashboard screenshot inside the Images folder.
-
 ![Dashboard](Images/Dashboard.png)
-
 ---
-
 ## 🎯 Business Objectives
 
 - Monitor Total Sales
